@@ -13,7 +13,7 @@ This repository contains solutions and simulations for Assignment 4 in the Appli
 
 ## Usage
 
-You can access the MATLAB code and simulations for each problem in their respective directories. Feel free to explore and use the code as a reference for your own modeling and simulation tasks.
+You can access the Mathematics code and simulations for each problem in their respective directories. Feel free to explore and use the code as a reference for your own modeling and simulation tasks.
 
 ## License
 
