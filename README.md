@@ -1,4 +1,4 @@
-# AMTH450-Assignment05-MATLAB
+# AMTH450-Assignment05-Mathematica
 
 This repository contains solutions and simulations for Assignment 4 in the Applied Mathematics program at the University of Dhaka. The assignment covers a range of topics in mathematical modeling, including population growth models, logistic equations, ecological predator-prey models, Lotka-Volterra systems, epidemiological models, and autonomous systems.
 
